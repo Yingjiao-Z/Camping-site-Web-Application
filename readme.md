@@ -1,6 +1,6 @@
 Camping Site Web Application
 
-1. Designed a Mini Yelp application for camping lovers, which includes sharing camping site name, price and
+1. Designed a Web Application for camping lovers, which includes sharing camping site name, price and
 image, visitors sign up, login and comment.
 2. The whole project was developed using MEN stack under Amazon AWS Cloud9 developer environment and
 deployed on Heroku.
